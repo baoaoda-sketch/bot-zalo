@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Zalo OA Webhook Verification</title>
+  <!-- Zalo OA verification meta (replace content with your verify token) -->
+  <meta name="zalo-site-verification" content="YOUR_ZALO_VERIFICATION_TOKEN_HERE">
+  <meta name="description" content="Zalo OA Webhook verification page for Bot"> 
+</head>
+<body>
+  <main style="font-family: Arial, Helvetica, sans-serif; max-width:700px;margin:40px auto;">
+    <h1>Zalo OA Webhook</h1>
+    <p>Đây là trang xác thực webhook cho Zalo OA. Nếu Zalo yêu cầu challenge, server sẽ phản hồi tự động.</p>
+    <p>Thay thế nội dung meta <code>zalo-site-verification</code> bằng token do Zalo cung cấp khi đăng ký webhook (nếu cần).</p>
+    <hr>
+    <p>Endpoints:</p>
+    <ul>
+      <li><strong>POST</strong> /zalo/webhook - nhận sự kiện từ Zalo OA</li>
+      <li><strong>GET</strong> /ping - health check</li>
+    </ul>
+  </main>
+</body>
+</html>

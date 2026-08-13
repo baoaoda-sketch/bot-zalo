@@ -1,0 +1,19 @@
+{
+  "name": "zalo-oa-bot",
+  "version": "1.0.0",
+  "description": "Chatbot Zalo OA tích hợp Gemini, refresh token và menu nút bấm",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^1.0.2",
+    "axios": "^1.18.1",
+    "dotenv": "^16.6.1",
+    "express": "^4.19.2",
+    "puppeteer-core": "^25.5.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "zca-js": "^2.1.2"
+  }
+}
