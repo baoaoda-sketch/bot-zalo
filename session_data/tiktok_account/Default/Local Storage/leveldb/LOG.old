@@ -1,0 +1,15 @@
+2026/08/10-13:55:55.555 1c864 Reusing MANIFEST /home/gia/hoc tap/botzalo/session_data/tiktok_account/Default/Local Storage/leveldb/MANIFEST-000001
+2026/08/10-13:55:55.566 1c864 Recovering log #9
+2026/08/10-13:55:55.566 1c864 Level-0 table #11: started
+2026/08/10-13:55:55.573 1c864 Level-0 table #11: 27185 bytes OK
+2026/08/10-13:55:55.573 1c864 Recovering log #11
+2026/08/10-13:55:55.574 1c864 Reusing old log /home/gia/hoc tap/botzalo/session_data/tiktok_account/Default/Local Storage/leveldb/000011.log 
+2026/08/10-13:55:55.580 1c864 Delete type=0 #9
+2026/08/10-13:55:55.581 1c866 Compacting 4@0 + 0@1 files
+2026/08/10-13:55:55.589 1c866 Generated table #12@0: 25 keys, 6041 bytes
+2026/08/10-13:55:55.589 1c866 Compacted 4@0 + 0@1 files => 6041 bytes
+2026/08/10-13:55:55.594 1c866 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/08/10-13:55:55.595 1c866 Delete type=2 #6
+2026/08/10-13:55:55.595 1c866 Delete type=2 #11
+2026/08/10-13:55:55.595 1c866 Delete type=2 #3
+2026/08/10-13:55:55.595 1c866 Delete type=2 #9
